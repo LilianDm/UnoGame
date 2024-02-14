@@ -6,6 +6,7 @@ A group project about a game similar to Uno. With images, cards, and competition
 * Paul S-Coder
 * Jackson Payne-Coder
 * Arya Hessick-Researcher/Tester
+* Sawyer Douthit - Developer
 
 ##Project Objective
 
