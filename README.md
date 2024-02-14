@@ -2,7 +2,9 @@
 A group project
 
 ## Members
-* Member Name: Role
+* Member Name:
+* Paul S-Coder
+* Jackson Payne-Coder
 
 ##Project Objective
 Features and goals
