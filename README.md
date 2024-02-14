@@ -10,6 +10,11 @@ A group project about a game similar to Uno. With images, cards, and competition
 ##Project Objective
 
 Features and goals
+* A player vs. AI UNO simulation
+* images of what happened
+* a clear view of the hand
+* a start screen and message
+* an end screen and message
 
 ## UI and Logic Planning
 
