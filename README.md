@@ -1,8 +1,8 @@
 # UnoGame
-A group project
+A group project about a game similar to Uno. With images, cards, and competition, it will be a fun game to play against AI.
 
 ## Members
-* Member Name:
+* Lilian Dmitrieva - Group Leader
 * Paul S-Coder
 * Jackson Payne-Coder
 * Arya Hessick-Researcher/Tester
