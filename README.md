@@ -8,6 +8,7 @@ A group project about a game similar to Uno. With images, cards, and competition
 * Arya Hessick-Researcher/Tester
 
 ##Project Objective
+
 Features and goals
 
 ## UI and Logic Planning
