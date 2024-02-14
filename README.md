@@ -5,6 +5,7 @@ A group project
 * Member Name:
 * Paul S-Coder
 * Jackson Payne-Coder
+* Arya Hessick-Researcher/Tester
 
 ##Project Objective
 Features and goals
