@@ -17,7 +17,7 @@ Features and goals
 * a clear view of the hand
 * a start screen and message
 * an end screen and message
-* Boolean for if the who is playing or not
+* Boolean for who is playing or not
 
 ## UI and Logic Planning
 
