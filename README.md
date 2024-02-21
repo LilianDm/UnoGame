@@ -13,11 +13,10 @@ A group project about a game similar to Uno. With images, cards, and competition
 
 Features and goals
 * A player vs. AI UNUS simulation (similar to UNO)
-* images of what happened/what's going on
-* a clear view of the hand
-* a start screen and message
-* an end screen and message
-* Boolean for who is playing or not
+* Images displaying what is going on in the game for the user
+* A clear view of the hand
+* A start screen and message
+* An end screen and message
 
 ## UI and Logic Planning
 
