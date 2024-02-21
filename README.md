@@ -10,7 +10,7 @@ A group project about a game similar to Uno. With images, cards, and competition
 * Arya Hessick - Researcher/Tester
 * Francis Jones - Graphic Designer
 
-## Project Objective
+## Project Objectives
 
 Features and goals
 * A player vs. AI UNUS simulation (similar to UNO)
