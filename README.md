@@ -19,7 +19,7 @@ Features and goals
 * A start screen and message
 * An end screen and message
 
-## UI and Logic Planning
+## User-Interface and Logic Planning
 
 ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/Unus-Revised-Grid-Layout.png?raw=true)
 
