@@ -21,6 +21,6 @@ Features and goals
 
 ## UI and Logic Planning
 
-![Grid Layout](https://github.com/LilianDm/UnoGame/blob/main/images/UnoGameGridLayout.png?raw=true)
+![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/Unus-Revised-Grid-Layout.png?raw=true)
 
 [Link to the Repl page](https://replit.com/join/gnumiivyfg-9622884)
