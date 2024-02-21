@@ -3,10 +3,11 @@ A group project about a game similar to Uno. With images, cards, and competition
 
 ## Members
 * Lilian Dmitrieva - Group Leader
-* Paul S-Coder
-* Jackson Payne-Coder
-* Arya Hessick-Researcher/Tester
+* Paul S - Coder
+* Jackson Payne - Coder
+* Arya Hessick - Researcher/Tester
 * Sawyer Douthit - Developer
+* other people add thier names here!!!!!!!!
 
 ##Project Objective
 
