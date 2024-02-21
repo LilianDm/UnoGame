@@ -8,6 +8,7 @@ A group project about a game similar to Uno. With images, cards, and competition
 *  Sawyer Douthit - Developer
 * Arya Hessick - Researcher/Tester
 * Andrei Jotic - Developer
+* Francis Jones - Graphic Designer
 
 ## Project Objective
 
