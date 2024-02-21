@@ -7,6 +7,7 @@ A group project about a game similar to Uno. With images, cards, and competition
 * Jackson Payne - Developer
 *  Sawyer Douthit - Developer
 * Arya Hessick - Researcher/Tester
+* Andrei Jotic - Developer
 * other people add thier names here!!!!!!!!                                             <---------------
 
 ##Project Objective
