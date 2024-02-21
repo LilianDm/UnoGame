@@ -12,7 +12,7 @@
 
 ## Project Objectives
 
-Features and goals
+### Features and goals
 * A user vs. AI simulation (similar to UNO)
 * Images displaying what is going on during the game
 * A clear view of the hand
