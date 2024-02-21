@@ -10,7 +10,7 @@ A group project about a game similar to Uno. With images, cards, and competition
 * Andrei Jotic - Developer
 * other people add thier names here!!!!!!!!                                           <---------------
 
-##Project Objective
+## Project Objective
 
 Features and goals
 * A player vs. AI UNUS simulation (similar to UNO)
