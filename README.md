@@ -1,7 +1,7 @@
 # UnusGame
  A group project about a game similar to Uno, with images, cards, and competition.
 
-##  Project Members
+##  Project Members and Roles
 * Lilian Dmitrieva - Group Leader
 * Paul Schlegel - Developer
 * Jackson Payne - Developer
