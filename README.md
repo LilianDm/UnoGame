@@ -5,8 +5,8 @@ A group project about a game similar to Uno. With images, cards, and competition
 * Lilian Dmitrieva - Group Leader
 * Paul S - Developer
 * Jackson Payne - Developer
+*  Sawyer Douthit - Developer
 * Arya Hessick - Researcher/Tester
-* Sawyer Douthit - Developer
 * other people add thier names here!!!!!!!!                                             <---------------
 
 ##Project Objective
