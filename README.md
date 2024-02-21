@@ -3,7 +3,7 @@ A group project about a game similar to Uno. With images, cards, and competition
 
 ## Members
 * Lilian Dmitrieva - Group Leader
-* Paul S - Developer
+* Paul Schlegel - Developer
 * Jackson Payne - Developer
 *  Sawyer Douthit - Developer
 * Arya Hessick - Researcher/Tester
