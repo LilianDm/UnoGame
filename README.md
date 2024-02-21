@@ -1,5 +1,5 @@
 # UnusGame
-A group project about a game similar to Uno. With images, cards, and competition, it will be a fun game to play against AI.
+* A group project about a game similar to Uno. With images, cards, and competition, it will be a fun game to play against AI.
 
 ##  Project Members
 * Lilian Dmitrieva - Group Leader
