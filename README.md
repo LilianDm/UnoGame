@@ -21,9 +21,9 @@
 ## User-Interface and Logic Planning
 
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
- <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_0.png?raw=true" width="250" height="250">
- <img src= "https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_1.png?raw=true" width="250" height="250">
- <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_2.png?raw=true" width="250" height="250">
- <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_3.png?raw=true" width="250" height="250">
+ <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_0.png?raw=true" width="240" height="240">
+ <img src= "https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_1.png?raw=true" width="240" height="240">
+ <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_2.png?raw=true" width="240" height="240">
+ <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_3.png?raw=true" width="240" height="240">
 
 #  [Link to the Repl page](https://replit.com/join/gnumiivyfg-9622884)
