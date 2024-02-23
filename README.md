@@ -21,5 +21,9 @@
 ## User-Interface and Logic Planning
 
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
+ ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
+ ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
+ ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
+ ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
 
 #  [Link to the Repl page](https://replit.com/join/gnumiivyfg-9622884)
