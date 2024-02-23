@@ -21,7 +21,7 @@
 ## User-Interface and Logic Planning
 
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
- ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_0.png?raw=true)
+ <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_0.png?raw=true" width="120" height="120">
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_1.png?raw=true)
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_2.png?raw=true)
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_3.png?raw=true)
