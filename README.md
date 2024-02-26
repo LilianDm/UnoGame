@@ -25,6 +25,6 @@
  <img src= "https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_1.png?raw=true" width="240" height="240">
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_2.png?raw=true" width="240" height="240">
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/cards_3.png?raw=true" width="240" height="240">
- <img src=" https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Cards-5.png.png?raw=true" width="240" height="240">
+ <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Cards-5.png?raw=true" width="240" height="240">
 
 #  [Link to the Repl page](https://replit.com/join/gnumiivyfg-9622884)
