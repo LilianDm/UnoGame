@@ -28,14 +28,14 @@ A group project about a game similar to Uno, with images, cards, and competition
 * Deal 7 cards to each player from the deck.
 ### Game loop:
 * While neither player has empty hands:
- * User's turn:
- * Display the user's hand and the top card on the pile.
- * Ask the user to choose a card to play.
- * Check if the chosen card is a valid move.
- * If valid, play the card and update the pile.
+  * User's turn:
+  * Display the user's hand and the top card on the pile.
+  * Ask the user to choose a card to play.
+  * Check if the chosen card is a valid move.
+  * If valid, play the card and update the pile.
 * AI's turn:
- * AI plays a random valid card from its hand.
- * Update the pile.
+  * AI plays a random valid card from its hand.
+  * Update the pile.
 * Check for Uno and Win conditions.
 
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
