@@ -46,7 +46,7 @@ A group project about a game similar to Uno, with images, cards, and competition
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Untitled66_20240228112400.png?raw=true" width="240" height="240">
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Cards-5.png?raw=true" width="240" height="240">
 
-<img src="https://github.com/LilianDm/UnusGame/assets/120538859/021a228b-a825-46c4-aea6-b45026dd122e" "width =300" "height = 300">
+![New Piskel](https://github.com/LilianDm/UnusGame/assets/120538859/eb03763e-ba51-4c3d-9279-1edac7038693)
 
 
 
