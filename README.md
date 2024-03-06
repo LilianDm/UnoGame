@@ -30,8 +30,4 @@ A group project about a game similar to Uno, with images, cards, and competition
 
 
 
-# [Link to the processing file](https://github.com/LilianDm/UnusGame/files/14514267/UNNNus_Game.11.zip)
-
-
-
-
+# [Link to the processing file](https://github.com/LilianDm/UnusGame/files/14514278/UNNNus_Game.11.zip)
