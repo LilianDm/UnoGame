@@ -19,6 +19,24 @@ A group project about a game similar to Uno, with images, cards, and competition
 * An end screen and message
 
 ## User-Interface and Logic Planning
+# Define the card deck:
+* Create a list of cards with colors (e.g., red, blue, green, yellow) and values (0 to 9, Skip, Wild, Plus2).
+* Shuffle the deck.
+# Define the players:
+* Create a Player class with a hand attribute to store the player's cards.
+* Initialize the user and AI players with empty hands.
+* Deal 7 cards to each player from the deck.
+# Game loop:
+* While neither player has empty hands:
+* * User's turn:
+* * Display the user's hand and the top card on the pile.
+* * Ask the user to choose a card to play.
+* * Check if the chosen card is a valid move.
+* * If valid, play the card and update the pile.
+* AI's turn:
+* * AI plays a random valid card from its hand.
+* * Update the pile.
+* Check for Uno and Win conditions.
 
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/start.png?raw=true" alt="Start Screen" width="500" height="500">
