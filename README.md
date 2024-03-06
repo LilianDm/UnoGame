@@ -17,9 +17,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 * A clear view of the hand
 * A start screen and message
 * An end screen and message
-
-## User-Interface and Logic Planning
-#### Define the card deck:
+* #### Define the card deck:
 * Create a list of cards with colors (e.g., red, blue, green, yellow) and values (0 to 9, Skip, Wild, Plus2).
 * Shuffle the deck.
 #### Define the players:
@@ -37,6 +35,8 @@ A group project about a game similar to Uno, with images, cards, and competition
   * AI plays a random valid card from its hand.
   * Update the pile.
 * Check for Uno and Win conditions.
+
+## User-Interface and Logic Planning
 
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/start.png?raw=true" alt="Start Screen" width="500" height="500">
