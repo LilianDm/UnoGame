@@ -20,9 +20,8 @@ A group project about a game similar to Uno, with images, cards, and competition
 
 
 ## User-Interface and Logic Planning
-### Define the card deck:
-* Create a list of cards with colors (e.g., red, blue, green, yellow) and values (0 to 9, Skip, Wild, Plus2).
-* Shuffle the deck.
+### Define the card class:
+* Create a list of cards with colors (e.g., red, blue, green, yellow) and values (0 to 9, Skip, Wild, Plus2, Plus4).
 ### Define the players:
 * Create a Player class with a hand attribute to store the player's cards.
 * Initialize the user and AI players with empty hands.
