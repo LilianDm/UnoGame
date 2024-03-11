@@ -49,6 +49,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 
 # Images are  rwilly good but, we have no clue how display them(great effort tho)(make sure not to show this Wensday and check to) (also, well just say that everyone was a developer, tester, or researcher, (rip)).
 # 💀😭
+# 😎
 # [Link to the processing file](https://github.com/LilianDm/UnusGame/files/14562776/UNNNus_Game_734.zip)
 
 
