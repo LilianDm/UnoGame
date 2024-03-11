@@ -3,10 +3,10 @@ A group project about a game similar to Uno, with images, cards, and competition
 
 ##  Project Members and Roles
 * Lilian Dmitrieva - Group Leader👍
-* Paul Schlegel - Developer🥶
-*  Jackson Payne - Developer😈
-*  Sawyer Douthit - Developer💀
-*  Andrei Jotic - Developer🥵
+* Paul Schlegel - Developer🥶 🤫🧏🗣️
+*  Jackson Payne - Developer😈 🤫🧏🗣️
+*  Sawyer Douthit - Developer💀 
+*  Andrei Jotic - Developer🥵 🤫🧏🗣️
 *  Arya Hessick - Researcher/Tester🤌
 *  Francis Jones - Graphic Designer🤪
 
