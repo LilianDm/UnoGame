@@ -36,7 +36,7 @@ A group project about a game similar to Uno, with images, cards, and competition
   * If valid, play the card and update the pile.
 * AI's turn:
   * AI plays a random valid card from its hand.
-  * Update the pile.
+ * The deck and pile are then updated.
 * Check for Uno and Win conditions.
 
  ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
