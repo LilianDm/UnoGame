@@ -1,4 +1,4 @@
-# UnusGame👺⬇️
+# UnusGame👺🚀⬇️
 A group project about a game similar to Uno, with images, cards, and competition. In this game, we will have specialized cards to play against an AI.. We plan to have a smooth way to play and place down interesting cards, and a deck that randomly gives cards to the player and the AI.
 
 ##  Project Members and Roles⬇️
@@ -31,7 +31,7 @@ A group project about a game similar to Uno, with images, cards, and competition
   * Ask the user to choose a card to play.
   * Check if the chosen card is a valid move.
   * If valid, play the card and update the pile.
-* AI's turn:🫦
+* AI's turn:🤖
  * AI plays a random valid card from its hand.
  * The deck and pile are then updated.
 * Check for Uno and Win conditions.
