@@ -31,8 +31,8 @@ A group project about a game similar to Uno, with images, cards, and competition
   * Ask the user to choose a card to play.
   * Check if the chosen card is a valid move.
   * If valid, play the card and update the pile.
-* AI's turn:
-  * AI plays a random valid card from its hand.
+* AI's turn:🫦
+ * AI plays a random valid card from its hand.
  * The deck and pile are then updated.
 * Check for Uno and Win conditions.
 
