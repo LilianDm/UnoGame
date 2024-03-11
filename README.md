@@ -17,7 +17,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 
 
 
-## User-Interface and Logic Planning
+## User-Interface and Logic Planning🤖
 ### Define the card class:
 * Create a list of cards with colors (e.g., red, blue, green, yellow) and values (0 to 9, Skip, Wild, Plus2, Plus4).
 ### Define the players:
