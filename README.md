@@ -25,7 +25,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 * Initialize the user and AI players with empty hands.
 * Deal 7 cards to each player from the deck.
 * Uses buttons as slots that can be used to play the cards for both the player and the ai.
-### Game loop:
+### Game loop💡
 * While neither player has empty hands:
 * User's turn:  
   * Ask the user to choose a card to play.
