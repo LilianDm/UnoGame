@@ -46,7 +46,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 
  <img src="https://github.com/LilianDm/UnusGame/assets/120538859/68061536-a5cd-46e4-b600-01c2f46f3dd2" width= "300" height = "300">
 
-# Images are  rwilly good but, we have no clue how display them(great effort tho)(make sure not to show this Wensday and check to) (also, well just say that everyone was a developer, tester, or researcher, (rip)).
+# Images are  rwilly good but, we have no clue how display them(great effort tho)(make sure not to show this Wedensday and check to) (also, well just say that everyone was a developer, tester, or researcher, (rip)).
 # 🪦💀😭
 # 😎😜😬
 # [Link to the processing file](https://github.com/LilianDm/UnusGame/files/14562776/UNNNus_Game_734.zip)
