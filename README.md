@@ -36,7 +36,7 @@ A group project about a game similar to Uno, with images, cards, and competition
  * The deck and pile are then updated.
 * Check for Uno and Win conditions.
 
- ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/UnusGridLayout.png?raw=true)
+ ![Grid Layout](https://github.com/LilianDm/UnusGame/blob/main/images/Unus_GridLayout.png?raw=true)
  ![StartScreen](https://github.com/LilianDm/UnusGame/blob/main/images/startscreen.arya%20hessick.png?raw=true)
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/start.png?raw=true" alt="Start Screen" width="500" height="500">
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Untitled66_20240228112406.png?raw=true" alt="cards" width="240" height="240">
