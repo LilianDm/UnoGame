@@ -27,8 +27,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 * Uses buttons as slots that can be used to play the cards for both the player and the ai.
 ### Game loop:
 * While neither player has empty hands:
-* User's turn:
-  * Display the user's hand and the top card on the pile.
+* User's turn:  
   * Ask the user to choose a card to play.
   * Check if the chosen card is a valid move.
   * If valid, play the card and update the pile.
@@ -47,7 +46,6 @@ A group project about a game similar to Uno, with images, cards, and competition
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Cards-5.png?raw=true" width="240" height="240">
 
  <img src="https://github.com/LilianDm/UnusGame/assets/120538859/68061536-a5cd-46e4-b600-01c2f46f3dd2" width= "300" height = "300">
-
 
 # [Link to the processing file](https://github.com/LilianDm/UnusGame/files/14562776/UNNNus_Game_734.zip)
 
