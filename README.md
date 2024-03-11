@@ -13,7 +13,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 ## Project Objectives
 
 * A user vs. AI simulation (similar to UNO)
-* Some images in the game
+* Numerous graphic images inside the game
 * We can see the hand through the console
 * A start screen and message
 * An end screen and message
