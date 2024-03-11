@@ -26,6 +26,7 @@ A group project about a game similar to Uno, with images, cards, and competition
 * Create a Player class with a hand attribute to store the player's cards.
 * Initialize the user and AI players with empty hands.
 * Deal 7 cards to each player from the deck.
+* Uses buttons as slots that can be used to play the cards for both the player and the ai.
 ### Game loop:
 * While neither player has empty hands:
 * User's turn:
