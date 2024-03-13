@@ -44,7 +44,7 @@ A group project about a game similar to Uno, with images, cards, and competition
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Untitled66_20240228112400.png?raw=true" width="240" height="240">
  <img src="https://github.com/LilianDm/UnusGame/blob/main/images/Cards/Cards-5.png?raw=true" width="240" height="240">
 
- <img src="https://github.com/LilianDm/UnusGame/assets/120538859/68061536-a5cd-46e4-b600-01c2f46f3dd2" width= "300" height = "300">
+ <img src="https://github.com/LilianDm/UnusGame/assets/120538859/68061536-a5cd-46e4-b600-01c2f46f3dd2" alt="AI" width= "300" height = "300">
 
 
 # [Link to the processing file](https://github.com/LilianDm/UnusGame/files/14562776/UNNNus_Game_734.zip)
