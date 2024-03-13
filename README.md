@@ -1,7 +1,7 @@
 # UnusGame
 A group project about a game similar to Uno, with images, cards, and competition. In this game, we will have specialized cards to play against an AI.. We plan to have a smooth way to play and place down interesting cards, and a deck that randomly gives cards to the player and the AI.
 
-##  Project Members and Roles⬇
+##  Project Members and Roles
 * Lilian Dmitrieva - Group Leader
 * Paul Schlegel - Developer
 *  Jackson Payne - Developer
